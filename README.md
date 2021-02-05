@@ -18,3 +18,5 @@ I'm Murdo, a turnip-head software engineering student from Scotland, who'd actua
 - [Twitter](https://twitter.com/murdomaclachlan)
 
 You can contact me at murdo@maclachlans.org.uk or murdomaclachlan@gmail.com (the first address is preferred).
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MurdoMaclachlan)
