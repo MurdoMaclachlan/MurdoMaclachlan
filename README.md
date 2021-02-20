@@ -1,4 +1,4 @@
-I'm Murdo, a turnip-head software engineering student from Scotland, who'd actually rather be doing writing than programming. It is what it is. I'm a fan of fantasy, science fiction, D&D and a wide variety of music. I play piano, occasionally sing. And in my free time, I transcribe for r/TranscribersOfReddit.
+I'm Murdo, a turnip-head software engineering student from Scotland, who'd actually rather be doing writing than programming. It is what it is. I'm a fan of fantasy, science fiction, D&D and a wide variety of music. I sing, occasionally play piano. And in my free time, I transcribe for r/TranscribersOfReddit.
 
 I use the following programming languages:
 
