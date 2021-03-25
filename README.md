@@ -23,7 +23,7 @@ I shun databases even more, but I can use SQL well enough when necessary, and ha
 - [Open Source Caretaker for Reddit](https://github.com/MurdoMaclachlan/oscr); a program for removing blacklisted comments from a user's Reddit profile after they reach a certain age.
 - [ToR Repost Collection](https://github.com/MurdoMaclachlan/ToR-Repost-Collection); a collection of common memes and reposts for members of r/TranscribersOfReddit (forked from codingJayWilliams).
 - [Unofficial Tor Apps](https://github.com/MurdoMaclachlan/unofficial-tor-apps); a list of unofficial apps designed by and for members of r/TranscribersOfReddit.
-- [Bash aliases](https://github.com/MurdoMaclachlan/bash-aliases); just a list of bash aliases I use on my system.
+- [Grimrock Imports](https://github.com/MurdoMaclachlan/grimrock-import); a collection of assets I imported from Grimrock 1 to Grimrock 2.
 
 ### My Other Profiles
 
