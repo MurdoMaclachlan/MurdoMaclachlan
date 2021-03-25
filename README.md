@@ -13,7 +13,7 @@ I avoid web development, but when I have to I use the following:
 - Markdown; whenever possible.
 - HTML; secondary.
 - CSS; secondary.
-- JavaScript; very limited.
+- JavaScript; limited.
 - PHP; very limited.
 
 I shun databases even more, but I can use SQL well enough when necessary, and have very limited experience with R.
