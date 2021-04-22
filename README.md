@@ -37,4 +37,4 @@ I shun databases even more, but I can use SQL well enough when necessary, and ha
 - [Steam](https://steamcommunity.com/id/mmaclachlan/)
 - [Twitter](https://twitter.com/murdomaclachlan)
 
-You can contact me at murdo@maclachlans.org.uk or murdomaclachlan@gmail.com (the first address is preferred).
+You can contact me (only for purposes relating to my public projects) at murdo@maclachlans.org.uk or murdomaclachlan@gmail.com (the first address is preferred).
