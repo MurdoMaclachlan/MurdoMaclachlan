@@ -1,6 +1,6 @@
 #### I am not looking for employment, please do not contact me for such reasons. My e-mail is visible for support reasons relating to my public projects. Thank you.
 
-I'm Murdo, a turnip-head software engineering student from Scotland, who'd actually rather be doing writing than programming. It is what it is. I'm a fan of fantasy, science fiction, D&D and a wide variety of music. I sing, occasionally play piano. And in my free time, I transcribe for r/TranscribersOfReddit.
+I'm Murdo, a Scottish software engineering student who'd actually rather be doing writing than programming. It is what it is. I'm a fan of fantasy, science fiction, D&D and a wide variety of music. I sing, occasionally play piano. And in my free time, I transcribe for r/TranscribersOfReddit.
 
 I use the following programming languages:
 
@@ -29,12 +29,6 @@ I shun databases even more, but I can use SQL well enough when necessary, and ha
 
 ### My Other Profiles
 
-- [Reddit](https://www.reddit.com/user/MurdoMaclachlan)
-- [AllPoetry](https://allpoetry.com/Murdo_Maclachlan)
-- [Twitch](https://www.twitch.tv/murdomaclachlan)
-- [YouTube](https://www.youtube.com/channel/UCFC6WprQlC7q2pwJEhaCPfA)
-- [Stream Archive](https://www.youtube.com/channel/UCvYC7NBRj77MRORgFVsD5nA)
-- [Steam](https://steamcommunity.com/id/mmaclachlan/)
-- [Twitter](https://twitter.com/murdomaclachlan)
+- You can find links to all my active/semi-active accounts [here](https://murdomaclachlan.carrd.co/).
 
 You can contact me (only for purposes relating to my public projects) at murdo@maclachlans.org.uk or murdomaclachlan@gmail.com (the first address is preferred).
