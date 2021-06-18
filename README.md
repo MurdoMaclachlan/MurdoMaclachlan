@@ -1,3 +1,5 @@
+#### I will be inactive from 20/06/21 - 25/06/21
+
 #### I am not looking for employment, please do not contact me for such reasons. My e-mail is visible for support reasons relating to my public projects. Thank you.
 
 I'm Murdo, a Scottish software engineering student who'd actually rather be doing writing than programming. It is what it is. I'm a fan of fantasy, science fiction, D&D and a wide variety of music. I sing, occasionally play piano. And in my free time, I transcribe for r/TranscribersOfReddit.
